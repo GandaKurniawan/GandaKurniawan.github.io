@@ -15,7 +15,7 @@ comment
 ---------*/
 /*general*/
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     background: #212121;
     color: #fafafa;
     font-size: 14px;
@@ -30,7 +30,7 @@ h5,
 h6 {
     line-height: 110%;
     margin: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 500;
     color: #fff;
 }
